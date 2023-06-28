@@ -1,4 +1,4 @@
-# CODING LOVER
+# Passionate Developer: Journey into Automation and Software Development
 
 ### Technical Skills
 
