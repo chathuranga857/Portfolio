@@ -8,7 +8,10 @@ C++, Python, SQL, OOP, HTML, JavaScript, CSS, PLC, Robotics, CAD
  - B.Sc., Mechanical Engineering          | University of Moratuwa (May. 2006 - Sep. 2010)
 
 ## Projects
-![test image](/assets/img/....jpg)
+### Web app for no-drone monitoring zone (assignment)
+Three tier architecture
+Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
+![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
 ## Work Experience
 ### Product and Tool Design Specialist
@@ -23,7 +26,6 @@ Company: Mech Pump Systems
 Period: Oct. 2010 - Aug. 2013
 - Designing of Water Supply Systems
 - Design automated control systems
-- CAD, Simulation
 - Managing all project works, resources and coordinating with sub-contractors
 
 
