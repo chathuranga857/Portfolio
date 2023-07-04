@@ -15,7 +15,12 @@ Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, HTML, C
 
 ### Remote monitoring SCADA for industrial equipment
 Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
-![NoDrone Zone Web App](/assets/img/remote monitoring2.jpg)
+![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
+[Link to the project](...)
+
+### Simple GUI game with C++
+Used Technologies: C++, OOP, GUI, Qt
+![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 [Link to the project](...)
 
 
