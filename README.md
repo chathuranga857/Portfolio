@@ -1,7 +1,18 @@
 # Passionate Programmer: Journey into Software Engineering
 
+## About me
+I'm a passionate programmer on an exciting journey into the world of software engineering. As an automation engineering student, I've been exposed to the power of coding and its ability to drive innovation. I'm deeply fascinated by the endless possibilities that programming offers and constantly seek opportunities to expand my knowledge and skills.
+
+With a strong foundation in automation engineering, I have developed a solid understanding of programming principles and best practices. I thrive on problem solving and enjoy the process of translating ideas into efficient and robust code. Through my projects and contributions, I strive to create innovative solutions that have a positive impact.
+
+Throughout my journey, I've gained experience in various programming languages and technologies such as C++, Python, SQL, API, JavaScript, OOP, UML, etc. I believe in continuous learning and keeping up with the latest industry trends to stay at the forefront of software engineering.
+
+Beyond coding, I value collaboration, communication, and teamwork. I am a strong believer in the power of working together to achieve remarkable results. I actively seek opportunities to collaborate with like-minded individuals and contribute to meaningful projects.
+
+I'm excited to share my projects and showcase my skills through this GitHub portfolio. Feel free to explore my repositories and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. Let's connect and embark on this exciting journey together!
+
 ## Technical Skills
-C++, Python, SQL, OOP, HTML, JavaScript, CSS, PLC, Robotics, CAD
+C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process management, PLC, Robotics, CAD
 ## Education
  - M.Sc., Factory Automation and Robotics | Tampere University (Aug. 2022 - Jul. 2024)
  - MBA                                    | University of Suffolk (Jul.2020 - Oct. 2022)
