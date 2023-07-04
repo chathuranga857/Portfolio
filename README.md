@@ -21,6 +21,7 @@ Period: Sep. 2013 - Aug. 2022
 - Product design and development
 - CAD, Simulation
 - Research and development
+
 ### Project Engineer
 Company: Mech Pump Systems
 Period: Oct. 2010 - Aug. 2013
