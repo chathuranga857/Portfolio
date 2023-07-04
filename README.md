@@ -13,6 +13,12 @@ Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, HTML, C
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
+### Remote monitoring SCADA for industrial equipment
+Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+![NoDrone Zone Web App](/assets/img/remote monitoring2.jpg)
+[Link to the project](...)
+
+
 ## Work Experience
 ### Product and Tool Design Specialist
 Company: Michelin
