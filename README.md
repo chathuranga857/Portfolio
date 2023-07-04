@@ -11,18 +11,26 @@ C++, Python, SQL, OOP, HTML, JavaScript, CSS, PLC, Robotics, CAD
 ### Web app for no-drone monitoring zone (assignment)
 Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
+Breif: 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ### Remote monitoring SCADA for industrial equipment
 Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
+Breif: 
 [Link to the project](...)
 
 ### Simple GUI game with C++
 Used Technologies: C++, OOP, GUI, Qt
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
+Breif: 
 [Link to the project](...)
 
+### AI program to play TicTacToe
+Used Technologies: Python, MiniMax Algorithm
+![C++ GUI Game](/assets/img/AI TicTocToe.png)
+Breif:
+[Link to the project](...)
 
 ## Work Experience
 ### Product and Tool Design Specialist
