@@ -11,7 +11,7 @@ C++, Python, SQL, OOP, HTML, JavaScript, CSS, PLC, Robotics, CAD
 ### Web app for no-drone monitoring zone (assignment)
 Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
-![Link to project](https://github.com/chathuranga857/NDZ_PreAssignment)
+[Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ## Work Experience
 ### Product and Tool Design Specialist
