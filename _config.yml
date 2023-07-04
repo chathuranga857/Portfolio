@@ -1,7 +1,15 @@
 title: Chathuranga De Silva
 logo: /assets/img/photo_github3.jpg
-#description: text below the image
-show_downloads: true
+description: I'm a passionate programmer on an exciting journey into the world of software engineering. As an automation engineering student, I've been exposed to the power of coding and its ability to drive innovation. I'm deeply fascinated by the endless possibilities that programming offers and constantly seek opportunities to expand my knowledge and skills.
+
+With a strong foundation in automation engineering, I have developed a solid understanding of programming principles and best practices. I thrive on problem-solving and enjoy the process of translating ideas into efficient and robust code. Through my projects and contributions, I strive to create innovative solutions that have a positive impact.
+
+Throughout my journey, I've gained experience in various programming languages and technologies such as [mention specific languages/technologies]. I believe in continuous learning and keeping up with the latest industry trends to stay at the forefront of software engineering.
+
+Beyond coding, I value collaboration, communication, and teamwork. I am a strong believer in the power of working together to achieve remarkable results. I actively seek opportunities to collaborate with like-minded individuals and contribute to meaningful projects.
+
+I'm excited to share my projects and showcase my skills through this GitHub portfolio. Feel free to explore my repositories and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. Let's connect and embark on this exciting journey together!
+show_downloads: false
 theme: jekyll-theme-Minimal
 #other themes - Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
 #other themes site - https://pages.github.com/themes/
