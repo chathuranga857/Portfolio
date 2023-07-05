@@ -20,7 +20,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ## Projects
 ### Web app for no-drone monitoring zone (assignment)
-**Used Tools and Technologies:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
+***Used Tools and Technologies:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
