@@ -29,7 +29,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ### Remote monitoring SCADA for industrial equipment
-***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+***Keywords:*** Three tier architecture, Even Driven, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
@@ -51,7 +51,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![C++ GUI Game](/assets/img/AI TicTocToe.png)
 
-***Breif:*** This is a AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
+***Breif:*** This is an AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
 
 [Link to the project](...)
 
@@ -60,7 +60,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![C++ GUI Game](/assets/img/traffic light system.jpg)
 
-***Breif:***
+***Breif:*** This project was completed as part of the "Distributed and Intelligent Automation Systems" course. The development process involved utilizing function block programming using Holobloc FBDK. The system consists of two HMIs designed for controlling two traffic lights. Additionally, a model was created to represent the physical traffic lights, and a controller was implemented to incorporate all the control logics. The system follows the MVC pattern and adopts a loosely coupled approach to enhance robustness, scalability, and maintainability.
 
 [Link to the project](...)
 
@@ -71,8 +71,11 @@ Company: Michelin
 Period: Sep. 2013 - Aug. 2022
 - Responsible for product and tool design team
 - Product design and development
-- CAD, Simulation
+- CAD, Parametric Modeling
+- Simulation
 - Research and development
+- Project Management
+- Team development
 
 ### Project Engineer
 Company: Mech Pump Systems
