@@ -23,6 +23,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 Used Technologies: Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 Breif: The project is a Python Flask web app hosted on Azure that monitors violations in a no-drone zone. It uses an Azure function to retrieve drone information over the zone (larger area) information from an external API, filters violators based on coordinates, and fetches pilot details from another API. Data is stored in a database, and a real-time web UI displays violator information using JavaScript's fetch function.
+
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ### Remote monitoring SCADA for industrial equipment
