@@ -24,34 +24,34 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
-**Breif:** The project is a Python Flask web app hosted on Azure that monitors violations in a no-drone zone. It uses an Azure function to retrieve drone information over the zone (larger area) information from an external API, filters violators based on coordinates, and fetches pilot details from another API. Data is stored in a database, and a real-time web UI displays violator information using JavaScript's fetch function.
+***Breif:*** The project is a Python Flask web app hosted on Azure that monitors violations in a no-drone zone. It uses an Azure function to retrieve drone information over the zone (larger area) information from an external API, filters violators based on coordinates, and fetches pilot details from another API. Data is stored in a database, and a real-time web UI displays violator information using JavaScript's fetch function.
 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ### Remote monitoring SCADA for industrial equipment
-**Used Tools and Technologies:** Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+***Used Tools and Technologies:*** Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
-**Breif:** This simple SCADA system project follows the event-driven architecture and is designed to remotely monitor the status of industrial robots. It comprises a middleware, a Python Flask web app hosted in Azure cloud, a relational database, and a simple web UI. The middleware captures status updates from robots through HTTP POST requests using Flask library tools and publishes them to an MQTT broker using the Paho MQTT library. The Python web app, hosted in Azure cloud, subscribes to events from the MQTT broker. Based on these events, the app updates the database. Additionally, the app process data in the backend, and provides API endpoints for UIs to retrieve the required information. This is a project done under Industrial Informatics course as a group work. Middleware, could web app including relational database upto API endpoints were done by myselft, while the Web UI was done by the other group member.
+***Breif:*** This simple SCADA system project follows the event-driven architecture and is designed to remotely monitor the status of industrial robots. It comprises a middleware, a Python Flask web app hosted in Azure cloud, a relational database, and a simple web UI. The middleware captures status updates from robots through HTTP POST requests using Flask library tools and publishes them to an MQTT broker using the Paho MQTT library. The Python web app, hosted in Azure cloud, subscribes to events from the MQTT broker. Based on these events, the app updates the database. Additionally, the app process data in the backend, and provides API endpoints for UIs to retrieve the required information. This is a project done under Industrial Informatics course as a group work. Middleware, could web app including relational database upto API endpoints were done by myselft, while the Web UI was done by the other group member.
 
 [Link to the project](...)
 
 ### Simple GUI game with C++
-**Used Tools and Technologies:** C++, OOP, GUI, Qt
+***Used Tools and Technologies:*** C++, OOP, GUI, Qt
 
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 
-**Breif:** 
+***Breif:*** 
 
 [Link to the project](...)
 
 ### AI program to play TicTacToe
-**Used Tools and Technologies:** Python, MiniMax Algorithm
+***Used Tools and Technologies:*** Python, MiniMax Algorithm
 
 ![C++ GUI Game](/assets/img/AI TicTocToe.png)
 
-**Breif:**
+***Breif:***
 
 [Link to the project](...)
 
