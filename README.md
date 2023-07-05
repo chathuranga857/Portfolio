@@ -44,7 +44,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ***Breif:*** This is a simple GUI game developed as a project under Programming 2 course with a high level of modularity. Some modules were received from the course personnel.
 
-[Link to the project](...)
+[Link to the project](https://github.com/chathuranga857/cpp_gui_game)
 
 ### AI program to play TicTacToe
 ***Keywords:*** Python, MiniMax Algorithm
@@ -53,7 +53,6 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ***Breif:*** This is an AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
 
-[Link to the project](...)
 
 ### Traffic light control system with function blocks programming (IEC 61499)
 ***Keywords:*** IEC 61499, Function Blocks, Structured Text, MVC pattern, UML
