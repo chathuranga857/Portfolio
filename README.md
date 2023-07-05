@@ -20,7 +20,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ## Projects
 ### Web app for no-drone monitoring zone (assignment)
-***Used Tools and Technologies:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
+***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
@@ -29,7 +29,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
 ### Remote monitoring SCADA for industrial equipment
-***Used Tools and Technologies:*** Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
@@ -38,22 +38,32 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 [Link to the project](...)
 
 ### Simple GUI game with C++
-***Used Tools and Technologies:*** C++, OOP, GUI, Qt
+***Keywords:*** C++, OOP, Modularity GUI, Qt
 
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 
-***Breif:*** 
+***Breif:*** This is a simple GUI game developed as a project under Programming 2 course with a high level of modularity. Some modules were received from the course personnel.
 
 [Link to the project](...)
 
 ### AI program to play TicTacToe
-***Used Tools and Technologies:*** Python, MiniMax Algorithm
+***Keywords:*** Python, MiniMax Algorithm
 
 ![C++ GUI Game](/assets/img/AI TicTocToe.png)
+
+***Breif:*** This is a AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
+
+[Link to the project](...)
+
+### Traffic light control system with function blocks programming (IEC 61499)
+***Keywords:*** IEC 61499, Function Blocks, Structured Text, MVC pattern, UML
+
+![C++ GUI Game](/assets/img/traffic light system.jpg)
 
 ***Breif:***
 
 [Link to the project](...)
+
 
 ## Work Experience
 ### Product and Tool Design Specialist
