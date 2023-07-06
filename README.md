@@ -15,7 +15,7 @@ I'm excited to share my projects and showcase my skills through this GitHub port
 C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process management, PLC, Robotics, CAD
 ## Education
  - M.Sc., Factory Automation and Robotics | Tampere University (Aug. 2022 - Jul. 2024)
- - MBA                                    | University of Suffolk (Jul.2020 - Oct. 2022)
+ - MBA                                               | University of Suffolk (Jul.2020 - Oct. 2022)
  - B.Sc., Mechanical Engineering          | University of Moratuwa (May. 2006 - Sep. 2010)
 
 ## Projects
