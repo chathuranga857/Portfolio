@@ -91,7 +91,9 @@ This program involves implementing a class to simulate traffic lights and a queu
 
 ### Internship 
 HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ]
+
 Period: 02/05/2023 - 21/06/2023
+
 **Development of a mentoring platform for COMMU mobile App**
 - stakeholder analysis, Market and Competitor Analysis
 - Identify and empathize customer needs / Idea generation and prioritization
@@ -99,6 +101,7 @@ Period: 02/05/2023 - 21/06/2023
 
 ### Product and Tool Design Specialist
 Company: Michelin
+
 Period: Sep. 2013 - Aug. 2022
 - Responsible for product and tool design team
 - Product design and development
@@ -110,6 +113,7 @@ Period: Sep. 2013 - Aug. 2022
 
 ### Project Engineer
 Company: Mech Pump Systems
+
 Period: Oct. 2010 - Aug. 2013
 - Designing of Water Supply Systems
 - Design automated control systems
