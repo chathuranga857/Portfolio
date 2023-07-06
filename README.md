@@ -19,7 +19,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
  - B.Sc., Mechanical Engineering          | University of Moratuwa (May. 2006 - Sep. 2010)
 
 ## Projects
-### --Web app for no-drone monitoring zone (assignment)--
+### Web app for no-drone monitoring zone (assignment)
 ***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
@@ -28,6 +28,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
+---
 ### Remote monitoring SCADA for industrial equipment
 ***Keywords:*** Three tier architecture, Even Driven, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
@@ -37,6 +38,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 [Link to the project](https://github.com/chathuranga857/Remote_Monitoring)
 
+---
 ### Simple GUI game with C++
 ***Keywords:*** C++, OOP, Modularity, GUI, Qt
 
@@ -46,6 +48,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 [Link to the project](https://github.com/chathuranga857/cpp_gui_game)
 
+---
 ### C++ application for handling university information (assignment for modularity)
 ***Keywords:*** C++, OOP, Modularity, Data Strucures, File Handling, Qt
 
@@ -56,6 +59,7 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 [Link to the project](https://github.com/chathuranga857/cpp_uni_info_assignment)
 
+---
 ### AI program to play TicTacToe
 ***Keywords:*** Python, MiniMax Algorithm
 
@@ -63,15 +67,13 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ***Breif:*** This is an AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
 
-
+---
 ### Traffic light control system with function blocks programming (IEC 61499)
 ***Keywords:*** IEC 61499, Function Blocks, Structured Text, MVC pattern, UML
 
-![C++ GUI Game](/assets/img/traffic light system.jpg)
+![traffic light](/assets/img/traffic light system.jpg)
 
 ***Breif:*** This project was completed as part of the "Distributed and Intelligent Automation Systems" course. The development process involved utilizing function block programming using Holobloc FBDK. The system consists of two HMIs designed for controlling two traffic lights. Additionally, a model was created to represent the physical traffic lights, and a controller was implemented to incorporate all the control logics. The system follows the MVC pattern and adopts a loosely coupled approach to enhance robustness, scalability, and maintainability.
-
-[Link to the project](...)
 
 
 ## Work Experience
