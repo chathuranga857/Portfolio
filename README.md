@@ -90,7 +90,7 @@ This program involves implementing a class to simulate traffic lights and a queu
 ## Work Experience
 
 ### Internship 
-HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ] 
+HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ]
 Period: 02/05/2023 - 21/06/2023
 **Development of a mentoring platform for COMMU mobile App**
 - stakeholder analysis, Market and Competitor Analysis
