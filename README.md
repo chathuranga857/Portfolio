@@ -75,7 +75,7 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ***Breif:*** This project was completed as part of the "Distributed and Intelligent Automation Systems" course. The development process involved utilizing function block programming using Holobloc FBDK. The system consists of two HMIs designed for controlling two traffic lights. Additionally, a model was created to represent the physical traffic lights, and a controller was implemented to incorporate all the control logics. The system follows the MVC pattern and adopts a loosely coupled approach to enhance robustness, scalability, and maintainability.
 
-
+---
 ## Work Experience
 ### Product and Tool Design Specialist
 Company: Michelin
