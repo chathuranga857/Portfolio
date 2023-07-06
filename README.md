@@ -88,6 +88,15 @@ This program involves implementing a class to simulate traffic lights and a queu
 
 ---
 ## Work Experience
+
+### Internship 
+HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ] 
+Period: 02/05/2023 - 21/06/2023
+**Development of a mentoring platform for COMMU mobile App**
+- stakeholder analysis, Market and Competitor Analysis
+- Identify and empathize customer needs / Idea generation and prioritization
+- Solution design / Development of a prototype (App wireframe)
+
 ### Product and Tool Design Specialist
 Company: Michelin
 Period: Sep. 2013 - Aug. 2022
