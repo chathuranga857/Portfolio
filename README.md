@@ -19,7 +19,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
  - B.Sc., Mechanical Engineering          | University of Moratuwa (May. 2006 - Sep. 2010)
 
 ## Projects
-### Web app for no-drone monitoring zone (assignment)
+### --Web app for no-drone monitoring zone (assignment)--
 ***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
