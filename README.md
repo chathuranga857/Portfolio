@@ -35,16 +35,26 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ***Breif:*** This simple SCADA system project follows the event-driven architecture and is designed to remotely monitor the status of industrial robots. It comprises a middleware, a Python Flask web app hosted in Azure cloud, a relational database, and a simple web UI. The middleware captures status updates from robots through HTTP POST requests using Flask library tools and publishes them to an MQTT broker using the Paho MQTT library. The Python web app, hosted in Azure cloud, subscribes to events from the MQTT broker. Based on these events, the app updates the database. Additionally, the app process data in the backend, and provides API endpoints for UIs to retrieve the required information. This is a project done under Industrial Informatics course as a group work. Middleware, could web app including relational database upto API endpoints were done by myselft, while the Web UI was done by the other group member.
 
-[Link to the project](...)
+[Link to the project](https://github.com/chathuranga857/Remote_Monitoring)
 
 ### Simple GUI game with C++
-***Keywords:*** C++, OOP, Modularity GUI, Qt
+***Keywords:*** C++, OOP, Modularity, GUI, Qt
 
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 
 ***Breif:*** This is a simple GUI game developed as a project under Programming 2 course with a high level of modularity. Some modules were received from the course personnel.
 
 [Link to the project](https://github.com/chathuranga857/cpp_gui_game)
+
+### C++ application for handling university information (assignment for modularity)
+***Keywords:*** C++, OOP, Modularity, Data Strucures, File Handling, Qt
+
+![C++ GUI Game1](/assets/img/cpp_uni_projects3.jpg) ![C++ GUI Game1](/assets/img/cpp_uni_projects4.jpg)
+
+***Breif:*** This is a C++ project completed as as an assignement under Programming 2 course with modularity. Major parts of the "account" and "university" modules were developed by myself in order to implement 6 commands out of 15 of the program.
+The program accepts commands from the user and responds accordingly. The user can input commands using a combination of uppercase and lowercase letters. The program checks the number of parameters provided and displays an error message if the amount is incorrect. The parameters can consist of course codes and account numbers. The program also handles unknown parameters and displays appropriate error messages. Commands already implemented include QUIT to terminate the program, NEW_ACCOUNT to create new user accounts, PRINT_ACCOUNT to retrieve information about a specific account, PRINT_ACCOUNTS to display information about all accounts, NEW_COURSE to create new courses, and ADD_STAFF to add teachers to specific courses.
+
+[Link to the project](https://github.com/chathuranga857/cpp_uni_info_assignment)
 
 ### AI program to play TicTacToe
 ***Keywords:*** Python, MiniMax Algorithm
