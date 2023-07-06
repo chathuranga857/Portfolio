@@ -61,9 +61,9 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ---
 ### C++ application for vechicle queue (assignment)
-***Keywords:*** C++, OOP, Pointers, Qt
+***Keywords:*** C++, OOP, Pointers, Dynamic Memory Management, Qt
 
-![C++ vechicle queue](/assets/img/cpp_uni_projects3.jpg) ![C++ GUI Game1](/assets/img/cpp_uni_projects4.jpg)
+![C++ vechicle queue](/assets/img/vehicle_queue.jpg)
 
 ***Brief:*** This is a C++ project completed as an assignment under Programming 2 course.
 This program involves implementing a class to simulate traffic lights and a queue data structure for vehicles waiting at the lights. The class has a cycle attribute that determines the maximum number of vehicles that can pass during a green light period. Vehicles can be added to the queue when the light is red, and they can directly pass through when the light is green. Vehicles can only be removed from the queue when the light is green. The color of the traffic light can be switched between red and green, and the program will print the register numbers of the vehicles that pass when the light turns green. The program also handles situations where the queue is empty or when the light is red.
