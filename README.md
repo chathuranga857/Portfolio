@@ -24,7 +24,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
-***Breif:*** The project is a Python Flask web app hosted on Azure that monitors violations in a no-drone zone. It uses an Azure function to retrieve drone information over the zone (larger area) information from an external API, filters violators based on coordinates, and fetches pilot details from another API. Data is stored in a database, and a real-time web UI displays violator information using JavaScript's fetch function.
+***Brief:*** The project is a Python Flask web app hosted on Azure that monitors violations in a no-drone zone. It uses an Azure function to retrieve drone information over the zone (larger area) information from an external API, filters violators based on coordinates, and fetches pilot details from another API. Data is stored in a database, and a real-time web UI displays violator information using JavaScript's fetch function.
 
 [Link to the project](https://github.com/chathuranga857/NDZ_PreAssignment)
 
@@ -34,7 +34,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
-***Breif:*** This simple SCADA system project follows the event-driven architecture and is designed to remotely monitor the status of industrial robots. It comprises a middleware, a Python Flask web app hosted in Azure cloud, a relational database, and a simple web UI. The middleware captures status updates from robots through HTTP POST requests using Flask library tools and publishes them to an MQTT broker using the Paho MQTT library. The Python web app, hosted in Azure cloud, subscribes to events from the MQTT broker. Based on these events, the app updates the database. Additionally, the app process data in the backend, and provides API endpoints for UIs to retrieve the required information. This is a project done under Industrial Informatics course as a group work. Middleware, could web app including relational database upto API endpoints were done by myselft, while the Web UI was done by the other group member.
+***Brief:*** This simple SCADA system project follows the event-driven architecture and is designed to remotely monitor the status of industrial robots. It comprises a middleware, a Python Flask web app hosted in Azure cloud, a relational database, and a simple web UI. The middleware captures status updates from robots through HTTP POST requests using Flask library tools and publishes them to an MQTT broker using the Paho MQTT library. The Python web app, hosted in Azure cloud, subscribes to events from the MQTT broker. Based on these events, the app updates the database. Additionally, the app process data in the backend, and provides API endpoints for UIs to retrieve the required information. This is a project done under Industrial Informatics course as a group work. Middleware, could web app including relational database upto API endpoints were done by myselft, while the Web UI was done by the other group member.
 
 [Link to the project](https://github.com/chathuranga857/Remote_Monitoring)
 
@@ -44,17 +44,17 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 
-***Breif:*** This is a simple GUI game developed as a project under Programming 2 course with a high level of modularity. Some modules were received from the course personnel.
+***Brief:*** This is a simple GUI game developed as a project under Programming 2 course with a high level of modularity. Some modules were received from the course personnel.
 
 [Link to the project](https://github.com/chathuranga857/cpp_gui_game)
 
 ---
 ### C++ application for handling university information (assignment for modularity)
-***Keywords:*** C++, OOP, Modularity, Data Strucures, File Handling, Qt
+***Keywords:*** C++, OOP, Modularity, Data Structures, File Handling, Qt
 
 ![C++ GUI Game1](/assets/img/cpp_uni_projects3.jpg) ![C++ GUI Game1](/assets/img/cpp_uni_projects4.jpg)
 
-***Breif:*** This is a C++ project completed as as an assignement under Programming 2 course with modularity. Major parts of the "account" and "university" modules were developed by myself in order to implement 6 commands out of 15 of the program.
+***Brief:*** This is a C++ project completed as an assignment under Programming 2 course with modularity. Major parts of the "account" and "university" modules were developed by myself in order to implement 6 commands out of 15 of the program.
 The program accepts commands from the user and responds accordingly. The user can input commands using a combination of uppercase and lowercase letters. The program checks the number of parameters provided and displays an error message if the amount is incorrect. The parameters can consist of course codes and account numbers. The program also handles unknown parameters and displays appropriate error messages. Commands already implemented include QUIT to terminate the program, NEW_ACCOUNT to create new user accounts, PRINT_ACCOUNT to retrieve information about a specific account, PRINT_ACCOUNTS to display information about all accounts, NEW_COURSE to create new courses, and ADD_STAFF to add teachers to specific courses.
 
 [Link to the project](https://github.com/chathuranga857/cpp_uni_info_assignment)
@@ -65,7 +65,7 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ![C++ GUI Game](/assets/img/AI TicTocToe.png)
 
-***Breif:*** This is an AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
+***Brief:*** This is an AI program developed with Python under Artificial Intelligence course. tictactoe.py module was developed by myself based on MiniMax Algorithm, while the runner.py module which is based on pygame library was received from the course personnel. 
 
 ---
 ### Traffic light control system with function blocks programming (IEC 61499)
@@ -73,7 +73,7 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ![traffic light](/assets/img/traffic light system.jpg)
 
-***Breif:*** This project was completed as part of the "Distributed and Intelligent Automation Systems" course. The development process involved utilizing function block programming using Holobloc FBDK. The system consists of two HMIs designed for controlling two traffic lights. Additionally, a model was created to represent the physical traffic lights, and a controller was implemented to incorporate all the control logics. The system follows the MVC pattern and adopts a loosely coupled approach to enhance robustness, scalability, and maintainability.
+***Brief:*** This project was completed as part of the "Distributed and Intelligent Automation Systems" course. The development process involved utilizing function block programming using Holobloc FBDK. The system consists of two HMIs designed for controlling two traffic lights. Additionally, a model was created to represent the physical traffic lights, and a controller was implemented to incorporate all the control logics. The system follows the MVC pattern and adopts a loosely coupled approach to enhance robustness, scalability, and maintainability.
 
 ---
 ## Work Experience
