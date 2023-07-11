@@ -12,7 +12,7 @@ Beyond coding, I value collaboration, communication, and teamwork. I am a strong
 I'm excited to share my projects and showcase my skills through this GitHub portfolio. Feel free to explore my repositories and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. Let's connect and embark on this exciting journey together!
 
 ## Technical Skills
-C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process management, PLC, Robotics, CAD
+C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Git, Software Product and Process management, PLC, Robotics, CAD
 ## Education
  - M.Sc., Factory Automation and Robotics | Tampere University (Aug. 2022 - Jul. 2024)
  - MBA                                               | University of Suffolk (Jul.2020 - Oct. 2022)
@@ -20,7 +20,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ## Projects
 ### Web app for no-drone monitoring zone (assignment)
-***Keywords:*** Three tier architecture, Python, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
+***Keywords:*** Three tier architecture, Full stack, Python, Flask, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
@@ -30,7 +30,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ---
 ### Remote monitoring SCADA for industrial equipment
-***Keywords:*** Three tier architecture, Even Driven, Python, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+***Keywords:*** Three tier architecture, Full stack, Even Driven, Python, Flask, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
@@ -40,7 +40,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ---
 ### Simple GUI game with C++
-***Keywords:*** C++, OOP, Modularity, GUI, Qt
+***Keywords:*** C++, OOP, Modularity, GUI, Git, Qt
 
 ![C++ GUI Game](/assets/img/C++_GUI Game.jpg)
 
@@ -50,7 +50,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Software Product and Process 
 
 ---
 ### C++ application for handling university information (assignment for modularity)
-***Keywords:*** C++, OOP, Modularity, Data Structures, File Handling, Qt
+***Keywords:*** C++, OOP, Modularity, Data Structures, File Handling, Git, Qt
 
 ![C++ GUI Game1](/assets/img/cpp_uni_projects3.jpg) ![C++ GUI Game1](/assets/img/cpp_uni_projects4.jpg)
 
@@ -61,7 +61,7 @@ The program accepts commands from the user and responds accordingly. The user ca
 
 ---
 ### C++ application for vechicle queue (assignment)
-***Keywords:*** C++, OOP, Pointers, Dynamic Memory Management, Qt
+***Keywords:*** C++, OOP, Pointers, Dynamic Memory Management, Git, Qt
 
 ![C++ vechicle queue](/assets/img/vehicle_queue.jpg)
 
