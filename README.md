@@ -20,7 +20,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Git, Software Product and Pro
 
 ## Projects
 ### Web app for no-drone monitoring zone (assignment)
-***Keywords:*** Three tier architecture, Full stack, Python, Flask, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
+***Keywords:*** Three-Tier architecture, Full-Stack, Python, Flask, SQLite, RESTFul API, HTML, CSS, JavaSript, Fetch, Azure cloud and Azure Functions
 
 ![NoDrone Zone Web App](/assets/img/BirdNest.jpg)
 
@@ -30,7 +30,7 @@ C++, Python, SQL, OOP, UML, HTML, JavaScript, CSS, Git, Software Product and Pro
 
 ---
 ### Remote monitoring SCADA for industrial equipment
-***Keywords:*** Three tier architecture, Full stack, Even Driven, Python, Flask, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
+***Keywords:*** Three-Tier architecture, Full-Stack, Even Driven, Python, Flask, SQLite, RESTFul API, MQTT, Azure cloud, HTML, CSS, JavaSript, AJAX
 
 ![Remote monitoring SCADA](/assets/img/remote monitoring2.jpg)
 
