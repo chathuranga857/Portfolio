@@ -1,4 +1,4 @@
-# Passionate Programmer: Journey into Software Engineering
+# Passionate Programmer: Journey into Automation and Software Engineering
 
 ## About me
 I'm a passionate programmer on an exciting journey into the world of software engineering. As an automation engineering student, I've been exposed to the power of coding and its ability to drive innovation. I'm deeply fascinated by the endless possibilities that programming offers and constantly seek opportunities to expand my knowledge and skills.
