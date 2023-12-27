@@ -89,6 +89,16 @@ This program involves implementing a class to simulate traffic lights and a queu
 ---
 ## Work Experience
 
+### Jr. Automation Engineer
+Company: Raute Oyj
+
+Period: Sep. 2023 - Present
+- PLC Programming
+- VFD Parameterization
+- DCS
+- Comissining of Start-up projects
+- Industrial Infomatics
+
 ### Internship 
 HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ]
 
