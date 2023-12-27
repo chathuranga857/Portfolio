@@ -96,8 +96,8 @@ Period: Sep. 2023 - Present
 - PLC Programming
 - VFD Parameterization
 - DCS
-- Comissining of Start-up projects
-- Industrial Infomatics
+- Commissioning of Start-up projects
+- Industrial Informatics
 
 ### Internship 
 HUBS (Collaborating with Commu App) [ 02/05/2023 – 21/06/2023 ]
